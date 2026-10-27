@@ -3,6 +3,6 @@
  */
 window.MAPORY_SITE = {
   contactEmail: 'soccer.82.d.y@gmail.com',
-  /** Leave empty until the App Store listing is live. */
-  appStoreUrl: '',
+  /** Live listing: 日本図鑑 id6795388518 */
+  appStoreUrl: 'https://apps.apple.com/jp/app/id6795388518',
 };
